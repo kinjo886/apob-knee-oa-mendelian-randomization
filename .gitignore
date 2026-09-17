@@ -1,0 +1,19 @@
+# R 环境
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+*.Rproj.user
+
+# 操作系统
+Thumbs.db
+.DS_Store
+ehthumbs.db
+
+# 临时文件
+*.tmp
+~$*
+
+# 日志
+*.log

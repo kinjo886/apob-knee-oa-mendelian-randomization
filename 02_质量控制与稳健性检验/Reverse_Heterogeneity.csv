@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"Knee OA","ApoB","met-d-ApoB","Knee osteoarthritis || id:ebi-a-GCST007090","MR Egger",13.9044442023448,7,0.0529072415789342
+"Knee OA","ApoB","met-d-ApoB","Knee osteoarthritis || id:ebi-a-GCST007090","Inverse variance weighted",15.9609876878689,8,0.0429419139652314

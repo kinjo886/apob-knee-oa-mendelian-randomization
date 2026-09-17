@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"ApoB","Knee OA","ebi-a-GCST007090","met-d-ApoB","MR Egger",77.7794999113836,52,0.0117976842815614
+"ApoB","Knee OA","ebi-a-GCST007090","met-d-ApoB","Inverse variance weighted",78.0424764697212,53,0.0141974589898715
